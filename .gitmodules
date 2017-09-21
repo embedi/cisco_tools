@@ -1,0 +1,10 @@
+[submodule "tcl_shellcode"]
+	path = tcl_shellcode
+	url = https://github.com/embedi/tcl_shellcode.git
+[submodule "iomem_hunter"]
+	path = iomem_hunter
+	url = https://github.com/embedi/iomem_hunter.git
+[submodule "PPCGadgetFinder"]
+	path = PPCGadgetFinder
+	url = https://github.com/embedi/PPCGadgetFinder.git
+ 
